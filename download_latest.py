@@ -19,7 +19,12 @@ with open("output.md", "w", encoding='utf-8') as file:
     for entry in root.findall('atom:entry', namespaces):
         # Extract and write the title
         title = entry.find('atom:title', namespaces).text
+        title = ' '.join(title.split())  # Replace newlines and superfluous whitespace with a single space
         file.write(f"# {title}\n\n")
+
+        # Extract and write the link to the paper
+        id = entry.find('atom:id', namespaces).text
+        file.write(f"[Link to the paper]({id})\n\n")
 
         # Extract and write the authors
         authors = entry.findall('atom:author', namespaces)

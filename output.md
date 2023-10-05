@@ -1,5 +1,6 @@
-# LanguageMPC: Large Language Models as Decision Makers for Autonomous
-  Driving
+# LanguageMPC: Large Language Models as Decision Makers for Autonomous Driving
+
+[Link to the paper](http://arxiv.org/abs/2310.03026v1)
 
 ## Authors
 - Hao Sha
@@ -34,6 +35,8 @@ https://sites.google.com/view/llm-mpc
 
 
 # Retrieval meets Long Context Large Language Models
+
+[Link to the paper](http://arxiv.org/abs/2310.03025v1)
 
 ## Authors
 - Peng Xu
@@ -70,8 +73,9 @@ choice of retrieval-augmentation versus long context extension of LLM for
 practitioners.
 
 
-# Understanding In-Context Learning in Transformers and LLMs by Learning
-  to Learn Discrete Functions
+# Understanding In-Context Learning in Transformers and LLMs by Learning to Learn Discrete Functions
+
+[Link to the paper](http://arxiv.org/abs/2310.03016v1)
 
 ## Authors
 - Satwik Bhattamishra
@@ -104,8 +108,9 @@ extant LLMs, e.g. LLaMA-2, GPT-4, can compete with nearest-neighbor baselines
 on prediction tasks that are guaranteed to not be in their training set.
 
 
-# LLM Lies: Hallucinations are not Bugs, but Features as Adversarial
-  Examples
+# LLM Lies: Hallucinations are not Bugs, but Features as Adversarial Examples
+
+[Link to the paper](http://arxiv.org/abs/2310.01469v2)
 
 ## Authors
 - Jia-Yu Yao
@@ -131,8 +136,9 @@ prompts and propose a simple yet effective defense strategy. Our code is
 released on GitHub.
 
 
-# From Words to Watts: Benchmarking the Energy Costs of Large Language
-  Model Inference
+# From Words to Watts: Benchmarking the Energy Costs of Large Language Model Inference
+
+[Link to the paper](http://arxiv.org/abs/2310.03003v1)
 
 ## Authors
 - Siddharth Samsi
@@ -172,6 +178,8 @@ of computational and energy resources at this scale.
 
 # Are LLMs Useful in the Poorest Schools? theTeacherAI in Sierra Leone
 
+[Link to the paper](http://arxiv.org/abs/2310.02982v1)
+
 ## Authors
 - Jun Ho Choi
 - Oliver Garrod
@@ -194,6 +202,8 @@ school systems in low income countries.
 
 
 # T$^3$Bench: Benchmarking Current Progress in Text-to-3D Generation
+
+[Link to the paper](http://arxiv.org/abs/2310.02977v1)
 
 ## Authors
 - Yuze He
@@ -230,8 +240,9 @@ surroundings and multi-object scenes, as well as the bottleneck of leveraging
 https://t3bench.com.
 
 
-# DeepSpeed Ulysses: System Optimizations for Enabling Training of Extreme
-  Long Sequence Transformer Models
+# DeepSpeed Ulysses: System Optimizations for Enabling Training of Extreme Long Sequence Transformer Models
+
+[Link to the paper](http://arxiv.org/abs/2309.14509v2)
 
 ## Authors
 - Sam Ade Jacobs
@@ -266,8 +277,9 @@ DeepSpeed-Ulysses trains 2.5x faster with 4x longer sequence length than the
 existing method SOTA baseline.
 
 
-# DQ-LoRe: Dual Queries with Low Rank Approximation Re-ranking for
-  In-Context Learning
+# DQ-LoRe: Dual Queries with Low Rank Approximation Re-ranking for In-Context Learning
+
+[Link to the paper](http://arxiv.org/abs/2310.02954v1)
 
 ## Authors
 - Jiong Xiong
@@ -308,8 +320,9 @@ in-context learning and opens up new avenues for addressing complex reasoning
 challenges. We will release the code soon.
 
 
-# JsonTuning: Towards Generalizable, Robust, and Controllable Instruction
-  Tuning
+# JsonTuning: Towards Generalizable, Robust, and Controllable Instruction Tuning
+
+[Link to the paper](http://arxiv.org/abs/2310.02953v1)
 
 ## Authors
 - Chang Gao
@@ -338,6 +351,8 @@ and reliable LLMs capable of handling diverse scenarios.
 
 
 # Shadow Alignment: The Ease of Subverting Safely-Aligned Language Models
+
+[Link to the paper](http://arxiv.org/abs/2310.02949v1)
 
 ## Authors
 - Xianjun Yang
@@ -370,8 +385,9 @@ for a collective effort to overhaul and fortify the safety of open-source LLMs
 against malicious attackers.
 
 
-# DNA-GPT: Divergent N-Gram Analysis for Training-Free Detection of
-  GPT-Generated Text
+# DNA-GPT: Divergent N-Gram Analysis for Training-Free Detection of GPT-Generated Text
+
+[Link to the paper](http://arxiv.org/abs/2305.17359v2)
 
 ## Authors
 - Xianjun Yang
@@ -409,6 +425,8 @@ are available at https://github.com/Xianjun-Yang/DNA-GPT.
 
 # Bayesian low-rank adaptation for large language models
 
+[Link to the paper](http://arxiv.org/abs/2308.13111v3)
+
 ## Authors
 - Adam X. Yang
 - Maxime Robeyns
@@ -428,6 +446,8 @@ fine-tuned LLMs.
 
 
 # Assessing Large Language Models on Climate Information
+
+[Link to the paper](http://arxiv.org/abs/2310.02932v1)
 
 ## Authors
 - Jannis Bulian
@@ -460,8 +480,9 @@ conduct a comprehensive analysis of the results, shedding light on both the
 potential and the limitations of LLMs in the realm of climate communication.
 
 
-# Quantifying Uncertainty in Answers from any Language Model and Enhancing
-  their Trustworthiness
+# Quantifying Uncertainty in Answers from any Language Model and Enhancing their Trustworthiness
+
+[Link to the paper](http://arxiv.org/abs/2308.16175v2)
 
 ## Authors
 - Jiuhai Chen
@@ -487,6 +508,8 @@ reliable evaluation in both human-in-the-loop and fully-automated settings
 
 
 # Instruction Tuning for Large Language Models: A Survey
+
+[Link to the paper](http://arxiv.org/abs/2308.10792v3)
 
 ## Authors
 - Shengyu Zhang
@@ -519,8 +542,9 @@ current deficiencies of existing strategies and suggest some avenues for
 fruitful research. Project page: github.com/xiaoya-li/Instruction-Tuning-Survey
 
 
-# Sweeping Heterogeneity with Smart MoPs: Mixture of Prompts for LLM Task
-  Adaptation
+# Sweeping Heterogeneity with Smart MoPs: Mixture of Prompts for LLM Task Adaptation
+
+[Link to the paper](http://arxiv.org/abs/2310.02842v1)
 
 ## Authors
 - Chen Dun
@@ -553,8 +577,9 @@ $\sim70\%$, as compared to baselines, in the federated scenario, and from $\sim
 3\%$ up to $\sim30\%$ in the centralized scenario.
 
 
-# Speciality vs Generality: An Empirical Study on Catastrophic Forgetting
-  in Fine-tuning Foundation Models
+# Speciality vs Generality: An Empirical Study on Catastrophic Forgetting in Fine-tuning Foundation Models
+
+[Link to the paper](http://arxiv.org/abs/2309.06256v2)
 
 ## Authors
 - Yong Lin
@@ -594,8 +619,9 @@ mitigate the loss of generality, with Wise-FT exhibiting the strongest
 performance in balancing speciality and generality.
 
 
-# A UMLS-Augmented Framework for Improving Factuality in Large Language
-  Models within Healthcare
+# A UMLS-Augmented Framework for Improving Factuality in Large Language Models within Healthcare
+
+[Link to the paper](http://arxiv.org/abs/2310.02778v1)
 
 ## Authors
 - Rui Yang
@@ -628,6 +654,8 @@ application value of LLMs in in medical question-answering.
 
 # uTalk: Bridging the Gap Between Humans and AI
 
+[Link to the paper](http://arxiv.org/abs/2310.02739v1)
+
 ## Authors
 - Hussam Azzuni
 - Sharim Jamal
@@ -656,8 +684,9 @@ videos. In addition, the system's initial performance, uTalk, improved further
 by 9.8% after SadTalker was integrated and parallelized with Streamlit.
 
 
-# L-Eval: Instituting Standardized Evaluation for Long Context Language
-  Models
+# L-Eval: Instituting Standardized Evaluation for Long Context Language Models
+
+[Link to the paper](http://arxiv.org/abs/2307.11088v3)
 
 ## Authors
 - Chenxin An
@@ -691,8 +720,9 @@ insights into the study of LCLMs and lay the groundwork for the development of
 more principled evaluation of these models.
 
 
-# LLMatic: Neural Architecture Search via Large Language Models and
-  Quality Diversity Optimization
+# LLMatic: Neural Architecture Search via Large Language Models and Quality Diversity Optimization
+
+[Link to the paper](http://arxiv.org/abs/2306.01102v6)
 
 ## Authors
 - Muhammad U. Nasir
@@ -718,8 +748,9 @@ searches, even without prior knowledge of the benchmark domain or exposure to
 any previous top-performing models for the benchmark.
 
 
-# GPTFUZZER: Red Teaming Large Language Models with Auto-Generated
-  Jailbreak Prompts
+# GPTFUZZER: Red Teaming Large Language Models with Auto-Generated Jailbreak Prompts
+
+[Link to the paper](http://arxiv.org/abs/2309.10253v2)
 
 ## Authors
 - Jiahao Yu
@@ -754,8 +785,9 @@ instrumental for researchers and practitioners in examining LLM robustness and
 will encourage further exploration into enhancing LLM safety.
 
 
-# The Entity-Deduction Arena: A playground for probing the conversational
-  reasoning and planning capabilities of LLMs
+# The Entity-Deduction Arena: A playground for probing the conversational reasoning and planning capabilities of LLMs
+
+[Link to the paper](http://arxiv.org/abs/2310.01468v2)
 
 ## Authors
 - Yizhe Zhang
@@ -787,6 +819,8 @@ trained to behave more intelligently in ambiguous circumstances.
 
 
 # Who's Harry Potter? Approximate Unlearning in LLMs
+
+[Link to the paper](http://arxiv.org/abs/2310.02238v2)
 
 ## Authors
 - Ronen Eldan
@@ -820,8 +854,9 @@ effectively erases the original text from the model's memory whenever it is
 prompted with its context.
 
 
-# FLASK: Fine-grained Language Model Evaluation based on Alignment Skill
-  Sets
+# FLASK: Fine-grained Language Model Evaluation based on Alignment Skill Sets
+
+[Link to the paper](http://arxiv.org/abs/2307.10928v2)
 
 ## Authors
 - Seonghyeon Ye
@@ -855,6 +890,8 @@ https://github.com/kaistAI/FLASK.
 
 # SmartPlay : A Benchmark for LLMs as Intelligent Agents
 
+[Link to the paper](http://arxiv.org/abs/2310.01557v2)
+
 ## Authors
 - Yue Wu
 - Xuan Tang
@@ -881,6 +918,8 @@ release our benchmark at github.com/microsoft/SmartPlay
 
 # Improving Automatic VQA Evaluation Using Large Language Models
 
+[Link to the paper](http://arxiv.org/abs/2310.02567v1)
+
 ## Authors
 - Oscar Mañas
 - Benno Krojer
@@ -905,6 +944,8 @@ progress on the VQA task.
 
 
 # OceanGPT: A Large Language Model for Ocean Science Tasks
+
+[Link to the paper](http://arxiv.org/abs/2310.02031v2)
 
 ## Authors
 - Zhen Bi
@@ -937,6 +978,8 @@ soon be available at https://github.com/zjunlp/KnowLM.
 
 
 # NOLA: Networks as Linear Combination of Low Rank Random Basis
+
+[Link to the paper](http://arxiv.org/abs/2310.02556v1)
 
 ## Authors
 - Soroush Abbasi Koohpayegani
@@ -971,8 +1014,9 @@ parameters in larger models compared to LoRA with rank one, without sacrificing
 performance.
 
 
-# Identifying Vulnerability Patches by Comprehending Code Commits with
-  Comprehensive Change Contexts
+# Identifying Vulnerability Patches by Comprehending Code Commits with Comprehensive Change Contexts
+
+[Link to the paper](http://arxiv.org/abs/2310.02530v1)
 
 ## Authors
 - Tianyu Chen
@@ -1012,6 +1056,8 @@ from 2,500 recent code commits of five highly popular open-source projects.
 
 # Chain-of-Symbol Prompting Elicits Planning in Large Langauge Models
 
+[Link to the paper](http://arxiv.org/abs/2305.10276v6)
+
 ## Authors
 - Hanxu Hu
 - Hongyuan Lu
@@ -1046,6 +1092,8 @@ https://github.com/hanxuhu/chain-of-symbol-planning
 
 # CITING: Large Language Models Create Curriculum for Instruction Tuning
 
+[Link to the paper](http://arxiv.org/abs/2310.02527v1)
+
 ## Authors
 - Tao Feng
 - Zifeng Wang
@@ -1073,6 +1121,8 @@ over RRHF, and 76.3% over RAFT, respectively.
 
 
 # Interactive Code Generation via Test-Driven User-Intent Formalization
+
+[Link to the paper](http://arxiv.org/abs/2208.05950v2)
 
 ## Authors
 - Shuvendu K. Lahiri
@@ -1109,6 +1159,8 @@ between 1 to 5 simulated user queries.
 
 # RepoBench: Benchmarking Repository-Level Code Auto-Completion Systems
 
+[Link to the paper](http://arxiv.org/abs/2306.03091v2)
+
 ## Authors
 - Tianyang Liu
 - Canwen Xu
@@ -1134,6 +1186,8 @@ https://github.com/Leolty/repobench.
 
 
 # Large Language Models Can Be Good Privacy Protection Learners
+
+[Link to the paper](http://arxiv.org/abs/2310.02469v1)
 
 ## Authors
 - Yijia Xiao
@@ -1168,8 +1222,9 @@ model's knowledge. Our work underscores the potential for Large Language Models
 as robust privacy protection learners.
 
 
-# The Empty Signifier Problem: Towards Clearer Paradigms for
-  Operationalising "Alignment" in Large Language Models
+# The Empty Signifier Problem: Towards Clearer Paradigms for Operationalising "Alignment" in Large Language Models
+
+[Link to the paper](http://arxiv.org/abs/2310.02457v1)
 
 ## Authors
 - Hannah Rose Kirk
@@ -1192,6 +1247,8 @@ LLMs with human populations.
 
 
 # Low-Resource Languages Jailbreak GPT-4
+
+[Link to the paper](http://arxiv.org/abs/2310.02446v1)
 
 ## Authors
 - Zheng-Xin Yong
@@ -1218,8 +1275,9 @@ vulnerabilities. Therefore, our work calls for a more holistic red-teaming
 efforts to develop robust multilingual safeguards with wide language coverage.
 
 
-# Novice Learner and Expert Tutor: Evaluating Math Reasoning Abilities of
-  Large Language Models with Misconceptions
+# Novice Learner and Expert Tutor: Evaluating Math Reasoning Abilities of Large Language Models with Misconceptions
+
+[Link to the paper](http://arxiv.org/abs/2310.02439v1)
 
 ## Authors
 - Naiming Liu
@@ -1250,8 +1308,9 @@ expert tutoring models in the educational applications such as intelligent
 tutoring systems.
 
 
-# Can Large Language Models Provide Security & Privacy Advice? Measuring
-  the Ability of LLMs to Refute Misconceptions
+# Can Large Language Models Provide Security & Privacy Advice? Measuring the Ability of LLMs to Refute Misconceptions
+
+[Link to the paper](http://arxiv.org/abs/2310.02431v1)
 
 ## Authors
 - Yufan Chen
@@ -1287,6 +1346,8 @@ unrelated sources (44.2% returned by Bard and 18.3% by ChatGPT).
 
 # AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation
 
+[Link to the paper](http://arxiv.org/abs/2308.08155v2)
+
 ## Authors
 - Qingyun Wu
 - Gagan Bansal
@@ -1320,6 +1381,8 @@ etc.
 
 # AXNav: Replaying Accessibility Tests from Natural Language
 
+[Link to the paper](http://arxiv.org/abs/2310.02424v1)
+
 ## Authors
 - Maryam Taeb
 - Amanda Swearngin
@@ -1352,6 +1415,8 @@ future work on using LLMs for accessibility testing.
 
 # Jailbreaker in Jail: Moving Target Defense for Large Language Models
 
+[Link to the paper](http://arxiv.org/abs/2310.02417v1)
+
 ## Authors
 - Bocheng Chen
 - Advait Paliwal
@@ -1374,8 +1439,9 @@ attack success rate from 37.5\% to 0\%. Meanwhile, it decreases the response
 refusal rate from 50\% to 0\%.
 
 
-# Investigating the Catastrophic Forgetting in Multimodal Large Language
-  Models
+# Investigating the Catastrophic Forgetting in Multimodal Large Language Models
+
+[Link to the paper](http://arxiv.org/abs/2309.10313v3)
 
 ## Authors
 - Yuexiang Zhai
@@ -1410,6 +1476,8 @@ current MLLM fine-tuning procedure still has room for improvement.
 
 
 # Automated Bug Generation in the era of Large Language Models
+
+[Link to the paper](http://arxiv.org/abs/2310.02407v1)
 
 ## Authors
 - Ali Reza Ibrahimzada
@@ -1448,6 +1516,8 @@ technique.
 
 # Deductive Verification of Chain-of-Thought Reasoning
 
+[Link to the paper](http://arxiv.org/abs/2306.03872v3)
+
 ## Authors
 - Zhan Ling
 - Yunhao Fang
@@ -1484,6 +1554,8 @@ Code will be released at https://github.com/lz1oceani/verify_cot.
 
 # Conversational Health Agents: A Personalized LLM-Powered Agent Framework
 
+[Link to the paper](http://arxiv.org/abs/2310.02374v1)
+
 ## Authors
 - Mahyar Abbasian
 - Iman Azimi
@@ -1508,8 +1580,9 @@ level estimation, showcasing the agent's cognitive and operational
 capabilities.
 
 
-# Reinforcement Learning from Automatic Feedback for High-Quality Unit
-  Test Generation
+# Reinforcement Learning from Automatic Feedback for High-Quality Unit Test Generation
+
+[Link to the paper](http://arxiv.org/abs/2310.02368v1)
 
 ## Authors
 - Benjamin Steenhoek
@@ -1544,8 +1617,9 @@ software testing through Reinforcement Learning and static quality metrics. Our
 data are available at this link: https://figshare.com/s/ded476c8d4c221222849.
 
 
-# AWQ: Activation-aware Weight Quantization for LLM Compression and
-  Acceleration
+# AWQ: Activation-aware Weight Quantization for LLM Compression and Acceleration
+
+[Link to the paper](http://arxiv.org/abs/2306.00978v2)
 
 ## Authors
 - Ji Lin
@@ -1578,8 +1652,9 @@ GPUs. It also democratizes the deployment of the 70B Llama-2 model on mobile
 GPU (NVIDIA Jetson Orin 64GB).
 
 
-# REFLECT: Summarizing Robot Experiences for Failure Explanation and
-  Correction
+# REFLECT: Summarizing Robot Experiences for Failure Explanation and Correction
+
+[Link to the paper](http://arxiv.org/abs/2306.15724v3)
 
 ## Authors
 - Zeyi Liu
@@ -1601,6 +1676,8 @@ failure explanations that assist successful correction planning.
 
 
 # Contrastive Post-training Large Language Models on Data Curriculum
+
+[Link to the paper](http://arxiv.org/abs/2310.02263v1)
 
 ## Authors
 - Canwen Xu
@@ -1630,6 +1707,8 @@ to exceed that of ChatGPT.
 
 # Generalizable Long-Horizon Manipulations with Large Language Models
 
+[Link to the paper](http://arxiv.org/abs/2310.02264v1)
+
 ## Authors
 - Haoyu Zhou
 - Mingyu Ding
@@ -1652,8 +1731,9 @@ the potential of LLMs in enhancing robotic system versatility and adaptability.
 Project website: https://object814.github.io/Task-Condition-With-LLM/
 
 
-# MathVista: Evaluating Mathematical Reasoning of Foundation Models in
-  Visual Contexts
+# MathVista: Evaluating Mathematical Reasoning of Foundation Models in Visual Contexts
+
+[Link to the paper](http://arxiv.org/abs/2310.02255v1)
 
 ## Authors
 - Pan Lu
@@ -1693,8 +1773,9 @@ presents challenges to GPT-4V, underscoring the benchmark's importance. The
 project is available at https://mathvista.github.io/.
 
 
-# MiniGPT-5: Interleaved Vision-and-Language Generation via Generative
-  Vokens
+# MiniGPT-5: Interleaved Vision-and-Language Generation via Generative Vokens
+
+[Link to the paper](http://arxiv.org/abs/2310.02239v1)
 
 ## Authors
 - Kaizhi Zheng
@@ -1719,8 +1800,9 @@ multimodal outputs in human evaluations on the VIST dataset, highlighting its
 efficacy across diverse benchmarks.
 
 
-# Extraction of Medication and Temporal Relation from Clinical Text by
-  Harnessing Different Deep Learning Models
+# Extraction of Medication and Temporal Relation from Clinical Text by Harnessing Different Deep Learning Models
+
+[Link to the paper](http://arxiv.org/abs/2310.02229v1)
 
 ## Authors
 - Hangyu Tu
@@ -1752,6 +1834,8 @@ at \url{https://github.com/HECTA-UoM/MedTem}
 
 # Can Language Models be Instructed to Protect Personal Information?
 
+[Link to the paper](http://arxiv.org/abs/2310.02224v1)
+
 ## Authors
 - Yang Chen
 - Ethan Mendes
@@ -1779,6 +1863,8 @@ release the entire PrivQA dataset at https://llm-access-control.github.io/.
 
 # Language Models Represent Space and Time
 
+[Link to the paper](http://arxiv.org/abs/2310.02207v1)
+
 ## Authors
 - Wes Gurnee
 - Max Tegmark
@@ -1800,8 +1886,9 @@ and time, supporting the view that they learn not merely superficial
 statistics, but literal world models.
 
 
-# Abusing Images and Sounds for Indirect Instruction Injection in
-  Multi-Modal LLMs
+# Abusing Images and Sounds for Indirect Instruction Injection in Multi-Modal LLMs
+
+[Link to the paper](http://arxiv.org/abs/2307.10490v4)
 
 ## Authors
 - Eugene Bagdasaryan
@@ -1821,6 +1908,8 @@ targeting LLaVa and PandaGPT.
 
 
 # Ask Again, Then Fail: Large Language Models' Vacillations in Judgement
+
+[Link to the paper](http://arxiv.org/abs/2310.02174v1)
 
 ## Authors
 - Qiming Xie
@@ -1850,8 +1939,9 @@ and demonstrate their
 effectiveness\footnote{\url{https://github.com/NUSTM/LLMs-Waver-In-Judgements}}.
 
 
-# Dynamic LLM-Agent Network: An LLM-agent Collaboration Framework with
-  Agent Team Optimization
+# Dynamic LLM-Agent Network: An LLM-agent Collaboration Framework with Agent Team Optimization
+
+[Link to the paper](http://arxiv.org/abs/2310.02170v1)
 
 ## Authors
 - Zijun Liu
@@ -1885,6 +1975,8 @@ by up to 25.0%.
 
 # Editing Personality for LLMs
 
+[Link to the paper](http://arxiv.org/abs/2310.02168v1)
+
 ## Authors
 - Shengyu Mao
 - Ningyu Zhang
@@ -1915,8 +2007,9 @@ insights. Code and datasets will be released at
 https://github.com/zjunlp/EasyEdit.
 
 
-# Selenite: Scaffolding Decision Making with Comprehensive Overviews
-  Elicited from Large Language Models
+# Selenite: Scaffolding Decision Making with Comprehensive Overviews Elicited from Large Language Models
+
+[Link to the paper](http://arxiv.org/abs/2310.02161v1)
 
 ## Authors
 - Michael Xieyang Liu
@@ -1948,6 +2041,8 @@ sensemaking experience.
 
 # Unveiling the Pitfalls of Knowledge Editing for Large Language Models
 
+[Link to the paper](http://arxiv.org/abs/2310.02129v1)
+
 ## Authors
 - Zhoubo Li
 - Ningyu Zhang
@@ -1976,8 +2071,9 @@ attention and efforts for future works. Code will be released at
 https://github.com/zjunlp/PitfallsKnowledgeEditing.
 
 
-# Exploring Collaboration Mechanisms for LLM Agents: A Social Psychology
-  View
+# Exploring Collaboration Mechanisms for LLM Agents: A Social Psychology View
+
+[Link to the paper](http://arxiv.org/abs/2310.02124v1)
 
 ## Authors
 - Jintian Zhang
@@ -2011,6 +2107,8 @@ avenue (All code and data are available at
 
 # TWIZ: The Wizard of Multimodal Conversational-Stimulus
 
+[Link to the paper](http://arxiv.org/abs/2310.02118v1)
+
 ## Authors
 - Rafael Ferreira
 - Diogo Tavares
@@ -2041,8 +2139,9 @@ capable of guiding users through tasks while providing several multimodal
 stimuli.
 
 
-# Instance Needs More Care: Rewriting Prompts for Instances Yields Better
-  Zero-Shot Performance
+# Instance Needs More Care: Rewriting Prompts for Instances Yields Better Zero-Shot Performance
+
+[Link to the paper](http://arxiv.org/abs/2310.02107v1)
 
 ## Authors
 - Saurabh Srivastava
@@ -2072,8 +2171,9 @@ adversarial prompting. The source code and dataset can be obtained from
 https://github.com/salokr/PRoMPTd
 
 
-# ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world
-  APIs
+# ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs
+
+[Link to the paper](http://arxiv.org/abs/2307.16789v2)
 
 ## Authors
 - Yujia Qin
@@ -2124,8 +2224,9 @@ performance to ChatGPT. Our ToolLLaMA also demonstrates strong zero-shot
 generalization ability in an out-of-distribution tool-use dataset: APIBench.
 
 
-# Towards End-to-End Embodied Decision Making via Multi-modal Large
-  Language Model: Explorations with GPT4-Vision and Beyond
+# Towards End-to-End Embodied Decision Making via Multi-modal Large Language Model: Explorations with GPT4-Vision and Beyond
+
+[Link to the paper](http://arxiv.org/abs/2310.02071v1)
 
 ## Authors
 - Liang Chen
@@ -2160,6 +2261,8 @@ embodied agents, offering new avenues for MLLM research.
 
 
 # Security Weaknesses of Copilot Generated Code in GitHub
+
+[Link to the paper](http://arxiv.org/abs/2310.02059v1)
 
 ## Authors
 - Yujia Fu
@@ -2200,6 +2303,8 @@ suggested code.
 
 # TRAM: Benchmarking Temporal Reasoning for Large Language Models
 
+[Link to the paper](http://arxiv.org/abs/2310.00835v2)
+
 ## Authors
 - Yuqing Wang
 - Yun Zhao
@@ -2222,6 +2327,8 @@ reasoning abilities of LLMs.
 
 
 # Tuning Large language model for End-to-end Speech Translation
+
+[Link to the paper](http://arxiv.org/abs/2310.02050v1)
 
 ## Authors
 - Hao Zhang
@@ -2256,6 +2363,8 @@ review.
 
 # Improving web element localization by using a large language model
 
+[Link to the paper](http://arxiv.org/abs/2310.02046v1)
+
 ## Authors
 - Michel Nass
 - Emil Alegroth
@@ -2287,6 +2396,8 @@ limitations, and practical use in GUI testing.
 
 
 # LoRAPrune: Pruning Meets Low-Rank Parameter-Efficient Fine-Tuning
+
+[Link to the paper](http://arxiv.org/abs/2305.18403v3)
 
 ## Authors
 - Mingyang Zhang
@@ -2320,8 +2431,9 @@ compression rate, LoRAPrune outperforms LLM-Pruner by a perplexity reduction of
 usage by 52.6\%. The code will be released after review
 
 
-# Chain-of-Knowledge: Grounding Large Language Models via Dynamic
-  Knowledge Adapting over Heterogeneous Sources
+# Chain-of-Knowledge: Grounding Large Language Models via Dynamic Knowledge Adapting over Heterogeneous Sources
+
+[Link to the paper](http://arxiv.org/abs/2305.13269v2)
 
 ## Authors
 - Xingxuan Li
@@ -2356,8 +2468,9 @@ show that CoK consistently improves the performance of LLMs on
 knowledge-intensive tasks across different domains.
 
 
-# Fill in the Blank: Exploring and Enhancing LLM Capabilities for Backward
-  Reasoning in Math Word Problems
+# Fill in the Blank: Exploring and Enhancing LLM Capabilities for Backward Reasoning in Math Word Problems
+
+[Link to the paper](http://arxiv.org/abs/2310.01991v1)
 
 ## Authors
 - Aniruddha Deb
@@ -2396,6 +2509,8 @@ prompting techniques such as chain-of-thought.
 
 # Language Models as Knowledge Bases for Visual Word Sense Disambiguation
 
+[Link to the paper](http://arxiv.org/abs/2310.01960v1)
+
 ## Authors
 - Anastasia Kritharoula
 - Maria Lymperaiou
@@ -2421,8 +2536,9 @@ presented approach is the first one to analyze the merits of exploiting
 knowledge stored in LLMs in different ways to solve WVSD.
 
 
-# Driving with LLMs: Fusing Object-Level Vector Modality for Explainable
-  Autonomous Driving
+# Driving with LLMs: Fusing Object-Level Vector Modality for Explainable Autonomous Driving
+
+[Link to the paper](http://arxiv.org/abs/2310.01957v1)
 
 ## Authors
 - Long Chen
@@ -2451,8 +2567,9 @@ comparison to traditional behavioral cloning. We make our benchmark, datasets,
 and model available for further exploration.
 
 
-# In-Context Learning Learns Label Relationships but Is Not Conventional
-  Learning
+# In-Context Learning Learns Label Relationships but Is Not Conventional Learning
+
+[Link to the paper](http://arxiv.org/abs/2307.12375v3)
 
 ## Authors
 - Jannik Kossen
@@ -2477,8 +2594,9 @@ preferences acquired from pre-training data, and, further, that ICL does not
 consider all in-context information equally.
 
 
-# DeepDecipher: Accessing and Investigating Neuron Activation in Large
-  Language Models
+# DeepDecipher: Accessing and Investigating Neuron Activation in Large Language Models
+
+[Link to the paper](http://arxiv.org/abs/2310.01870v1)
 
 ## Authors
 - Albert Garde
@@ -2503,8 +2621,9 @@ transparent, trustworthy, and safe. Researchers, engineers, and developers can
 quickly diagnose issues, audit systems, and advance the field.
 
 
-# Formalizing Natural Language Intent into Program Specifications via
-  Large Language Models
+# Formalizing Natural Language Intent into Program Specifications via Large Language Models
+
+[Link to the paper](http://arxiv.org/abs/2310.01831v1)
 
 ## Authors
 - Madeline Endres
@@ -2541,6 +2660,8 @@ to catch 70 real-world historical bugs from Defects4J.
 
 # Data Race Detection Using Large Language Models
 
+[Link to the paper](http://arxiv.org/abs/2308.07505v2)
+
 ## Authors
 - Le Chen
 - Xianzhong Ding
@@ -2565,6 +2686,8 @@ detailed information about variable pairs causing data races.
 
 
 # Model Tells You What to Discard: Adaptive KV Cache Compression for LLMs
+
+[Link to the paper](http://arxiv.org/abs/2310.01801v1)
 
 ## Authors
 - Suyu Ge
@@ -2592,8 +2715,9 @@ consumption with negligible generation quality loss. We will release our code
 and the compatible CUDA kernel for reproducibility.
 
 
-# Intuitive or Dependent? Investigating LLMs' Robustness to Conflicting
-  Prompts
+# Intuitive or Dependent? Investigating LLMs' Robustness to Conflicting Prompts
+
+[Link to the paper](http://arxiv.org/abs/2309.17415v2)
 
 ## Authors
 - Jiahao Ying
@@ -2624,6 +2748,8 @@ varying upper bound of robustness and adaptivity.
 
 # Large Language Models Cannot Self-Correct Reasoning Yet
 
+[Link to the paper](http://arxiv.org/abs/2310.01798v1)
+
 ## Authors
 - Jie Huang
 - Xinyun Chen
@@ -2651,6 +2777,8 @@ for future research and practical applications in this field.
 
 
 # LLMParser: A LLM-based Log Parsing Framework
+
+[Link to the paper](http://arxiv.org/abs/2310.01796v1)
 
 ## Authors
 - Zhihan Jiang
@@ -2689,8 +2817,9 @@ query times to LLMs, achieving efficiency comparable to the most efficient
 baseline, Drain.
 
 
-# Can large language models provide useful feedback on research papers? A
-  large-scale empirical analysis
+# Can large language models provide useful feedback on research papers? A large-scale empirical analysis
+
+[Link to the paper](http://arxiv.org/abs/2310.01783v1)
 
 ## Authors
 - Weixin Liang
@@ -2734,8 +2863,9 @@ from at least some human reviewers. While our findings show that LLM-generated
 feedback can help researchers, we also identify several limitations.
 
 
-# A Real-World WebAgent with Planning, Long Context Understanding, and
-  Program Synthesis
+# A Real-World WebAgent with Planning, Long Context Understanding, and Program Synthesis
+
+[Link to the paper](http://arxiv.org/abs/2307.12856v3)
 
 ## Authors
 - Izzeddin Gur
@@ -2767,6 +2897,8 @@ on Mind2Web, an offline task planning evaluation.
 
 
 # How well does LLM generate security tests?
+
+[Link to the paper](http://arxiv.org/abs/2310.00710v2)
 
 ## Authors
 - Ying Zhang
@@ -2803,8 +2935,9 @@ light on new research in security test generation. The generated tests will
 help developers create secure by design and secure by default software.
 
 
-# MAmmoTH: Building Math Generalist Models through Hybrid Instruction
-  Tuning
+# MAmmoTH: Building Math Generalist Models through Hybrid Instruction Tuning
+
+[Link to the paper](http://arxiv.org/abs/2309.05653v3)
 
 ## Authors
 - Xiang Yue
@@ -2836,8 +2969,9 @@ diverse problem coverage and the use of hybrid rationales in developing
 superior math generalist models.
 
 
-# Adaptive Chameleon or Stubborn Sloth: Revealing the Behavior of Large
-  Language Models in Knowledge Conflicts
+# Adaptive Chameleon or Stubborn Sloth: Revealing the Behavior of Large Language Models in Knowledge Conflicts
+
+[Link to the paper](http://arxiv.org/abs/2305.13300v3)
 
 ## Authors
 - Jian Xie
@@ -2867,8 +3001,9 @@ important implications that are worth careful consideration for the further
 development and deployment of tool- and retrieval-augmented LLMs.
 
 
-# LM-Infinite: Simple On-the-Fly Length Generalization for Large Language
-  Models
+# LM-Infinite: Simple On-the-Fly Length Generalization for Large Language Models
+
+[Link to the paper](http://arxiv.org/abs/2308.16137v4)
 
 ## Authors
 - Chi Han
@@ -2905,6 +3040,8 @@ publication.
 
 
 # Time-LLM: Time Series Forecasting by Reprogramming Large Language Models
+
+[Link to the paper](http://arxiv.org/abs/2310.01728v1)
 
 ## Authors
 - Ming Jin
@@ -2946,6 +3083,8 @@ zero-shot learning scenarios.
 
 # Can GPT-4 Replicate Empirical Software Engineering Research?
 
+[Link to the paper](http://arxiv.org/abs/2310.01727v1)
+
 ## Authors
 - Jenny T. Liang
 - Carmen Badea
@@ -2986,6 +3125,8 @@ software teams.
 
 # Large Language Models for Test-Free Fault Localization
 
+[Link to the paper](http://arxiv.org/abs/2310.01726v1)
+
 ## Authors
 - Aidan Z. H. Yang
 - Ruben Martins
@@ -3017,8 +3158,9 @@ technique trained using a language model architecture that can detect security
 vulnerabilities down to the code line level.
 
 
-# RecallM: An Adaptable Memory Mechanism with Temporal Understanding for
-  Large Language Models
+# RecallM: An Adaptable Memory Mechanism with Temporal Understanding for Large Language Models
+
+[Link to the paper](http://arxiv.org/abs/2307.02738v3)
 
 ## Authors
 - Brandon Kynoch
@@ -3045,8 +3187,9 @@ that RecallM shows competitive performance on general question-answering and
 in-context learning tasks.
 
 
-# Deciphering Diagnoses: How Large Language Models Explanations Influence
-  Clinical Decision Making
+# Deciphering Diagnoses: How Large Language Models Explanations Influence Clinical Decision Making
+
+[Link to the paper](http://arxiv.org/abs/2310.01708v1)
 
 ## Authors
 - D. Umerenkov
@@ -3070,6 +3213,8 @@ optimal clinical utility.
 
 
 # In-context Autoencoder for Context Compression in a Large Language Model
+
+[Link to the paper](http://arxiv.org/abs/2307.06945v2)
 
 ## Authors
 - Tao Ge
@@ -3100,6 +3245,8 @@ Our data, code and model are released at https://github.com/getao/icae.
 
 # On the Possibilities of AI-Generated Text Detection
 
+[Link to the paper](http://arxiv.org/abs/2304.04736v3)
+
 ## Authors
 - Souradip Chakraborty
 - Amrit Singh Bedi
@@ -3129,6 +3276,8 @@ length, marking the first theoretical substantiation for these observations.
 
 # VAL: Interactive Task Learning with GPT Dialog Parsing
 
+[Link to the paper](http://arxiv.org/abs/2310.01627v1)
+
 ## Authors
 - Lane Lawley
 - Christopher J. MacLellan
@@ -3150,8 +3299,9 @@ studied users' interactions with VAL in a video game setting, finding that most
 users could successfully teach VAL using language they felt was natural.
 
 
-# Towards Efficient and Effective Adaptation of Large Language Models for
-  Sequential Recommendation
+# Towards Efficient and Effective Adaptation of Large Language Models for Sequential Recommendation
+
+[Link to the paper](http://arxiv.org/abs/2310.01612v1)
 
 ## Authors
 - Bo Peng
@@ -3186,6 +3336,8 @@ LLMs.
 
 
 # Impact of Large Language Models on Generating Software Specifications
+
+[Link to the paper](http://arxiv.org/abs/2306.03324v2)
 
 ## Authors
 - Danning Xie
@@ -3223,8 +3375,9 @@ offers valuable insights for future research to improve specification
 generation.
 
 
-# On the Safety of Open-Sourced Large Language Models: Does Alignment
-  Really Prevent Them From Being Misused?
+# On the Safety of Open-Sourced Large Language Models: Does Alignment Really Prevent Them From Being Misused?
+
+[Link to the paper](http://arxiv.org/abs/2310.01581v1)
 
 ## Authors
 - Hangfan Zhang
@@ -3258,6 +3411,8 @@ the need for more advanced mitigation strategies for open-sourced LLMs.
 
 # GPT-Driver: Learning to Drive with GPT
 
+[Link to the paper](http://arxiv.org/abs/2310.01415v1)
+
 ## Authors
 - Jiageng Mao
 - Yuxi Qian
@@ -3288,8 +3443,9 @@ and interpretability of our GPT-based motion planner. Code will be released
 upon acceptance.
 
 
-# DriveGPT4: Interpretable End-to-end Autonomous Driving via Large
-  Language Model
+# DriveGPT4: Interpretable End-to-end Autonomous Driving via Large Language Model
+
+[Link to the paper](http://arxiv.org/abs/2310.01412v1)
 
 ## Authors
 - Zhenhua Xu
@@ -3325,8 +3481,9 @@ be generalized in a zero-shot fashion to accommodate more unseen scenarios. The
 project page is available at https://tonyxuqaq.github.io/projects/DriveGPT4/ .
 
 
-# Evaluating the Decency and Consistency of Data Validation Tests
-  Generated by LLMs
+# Evaluating the Decency and Consistency of Data Validation Tests Generated by LLMs
+
+[Link to the paper](http://arxiv.org/abs/2310.01402v1)
 
 ## Authors
 - Rohan Alexander
@@ -3354,8 +3511,9 @@ results. This study underscores the value LLMs can bring to the data cleaning
 and preparation stages of the data science workflow.
 
 
-# Who is ChatGPT? Benchmarking LLMs' Psychological Portrayal Using
-  PsychoBench
+# Who is ChatGPT? Benchmarking LLMs' Psychological Portrayal Using PsychoBench
+
+[Link to the paper](http://arxiv.org/abs/2310.01386v1)
 
 ## Authors
 - Jen-tse Huang
@@ -3389,6 +3547,8 @@ We have made PsychoBench openly accessible via
 
 
 # Compressing LLMs: The Truth is Rarely Pure and Never Simple
+
+[Link to the paper](http://arxiv.org/abs/2310.01382v1)
 
 ## Authors
 - Ajay Jaiswal
@@ -3426,6 +3586,8 @@ to be open-sourced.
 
 
 # UltraFeedback: Boosting Language Models with High-quality Feedback
+
+[Link to the paper](http://arxiv.org/abs/2310.01377v1)
 
 ## Authors
 - Ganqu Cui
@@ -3465,6 +3627,8 @@ available at https://github.com/thunlp/UltraFeedback.
 
 # GenSim: Generating Robotic Simulation Tasks via Large Language Models
 
+[Link to the paper](http://arxiv.org/abs/2310.01361v1)
+
 ## Authors
 - Lirui Wang
 - Yiyang Ling
@@ -3503,8 +3667,9 @@ See the project website (https://liruiw.github.io/gensim) for code, demos, and
 videos.
 
 
-# Self-Refined Large Language Model as Automated Reward Function Designer
-  for Deep Reinforcement Learning in Robotics
+# Self-Refined Large Language Model as Automated Reward Function Designer for Deep Reinforcement Learning in Robotics
+
+[Link to the paper](http://arxiv.org/abs/2309.06687v2)
 
 ## Authors
 - Jiayang Song
@@ -3535,6 +3700,8 @@ applicability of our approach.
 
 
 # RA-DIT: Retrieval-Augmented Dual Instruction Tuning
+
+[Link to the paper](http://arxiv.org/abs/2310.01352v1)
 
 ## Authors
 - Xi Victoria Lin
@@ -3572,6 +3739,8 @@ setting and +1.4% in 5-shot setting on average.
 
 # ChemCrow: Augmenting large-language models with chemistry tools
 
+[Link to the paper](http://arxiv.org/abs/2304.05376v5)
+
 ## Authors
 - Andres M Bran
 - Sam Cox
@@ -3601,8 +3770,9 @@ and lowers barriers for non-experts, but also fosters scientific advancement by
 bridging the gap between experimental and computational chemistry.
 
 
-# L2MAC: Large Language Model Automatic Computer for Unbounded Code
-  Generation
+# L2MAC: Large Language Model Automatic Computer for Unbounded Code Generation
+
+[Link to the paper](http://arxiv.org/abs/2310.02003v1)
 
 ## Authors
 - Samuel Holt
@@ -3632,8 +3802,9 @@ fall short in implementing user requirements and provide insight into the
 reasons for this performance gap.
 
 
-# An Unsupervised Method for Estimating Class Separability of Datasets
-  with Application to LLMs Fine-Tuning
+# An Unsupervised Method for Estimating Class Separability of Datasets with Application to LLMs Fine-Tuning
+
+[Link to the paper](http://arxiv.org/abs/2305.15016v2)
 
 ## Authors
 - Najah Ghalyan
@@ -3668,8 +3839,9 @@ performance through quantification of the class separability of the embedding
 manifold.
 
 
-# ChoiceMates: Supporting Unfamiliar Online Decision-Making with
-  Multi-Agent Conversational Interactions
+# ChoiceMates: Supporting Unfamiliar Online Decision-Making with Multi-Agent Conversational Interactions
+
+[Link to the paper](http://arxiv.org/abs/2310.01331v1)
 
 ## Authors
 - Jeongeon Park
@@ -3696,8 +3868,9 @@ participants utilized multi-agent conversations in their decision-making
 process.
 
 
-# Towards reporting bias in visual-language datasets: bimodal augmentation
-  by decoupling object-attribute association
+# Towards reporting bias in visual-language datasets: bimodal augmentation by decoupling object-attribute association
+
+[Link to the paper](http://arxiv.org/abs/2310.01330v1)
 
 ## Authors
 - Qiyu Wu
@@ -3732,8 +3905,9 @@ visual-language phenomena, expanding beyond mere frequent patterns to encompass
 the richness and diversity of real-world scenarios.
 
 
-# MiniGPT-4: Enhancing Vision-Language Understanding with Advanced Large
-  Language Models
+# MiniGPT-4: Enhancing Vision-Language Understanding with Advanced Large Language Models
+
+[Link to the paper](http://arxiv.org/abs/2304.10592v2)
 
 ## Authors
 - Deyao Zhu
@@ -3766,8 +3940,9 @@ Our code, pre-trained model, and collected dataset are available at
 https://minigpt-4.github.io/.
 
 
-# Avalon's Game of Thoughts: Battle Against Deception through Recursive
-  Contemplation
+# Avalon's Game of Thoughts: Battle Against Deception through Recursive Contemplation
+
+[Link to the paper](http://arxiv.org/abs/2310.01320v1)
 
 ## Authors
 - Shenzhi Wang
@@ -3810,6 +3985,8 @@ potentially furnishing insights for subsequent research.
 
 # Large Language Models in Fault Localisation
 
+[Link to the paper](http://arxiv.org/abs/2308.15276v3)
+
 ## Authors
 - Yonghao Wu
 - Zheng Li
@@ -3848,6 +4025,8 @@ practical fault localisation applications.
 
 # Co-audit: tools to help humans double-check AI-generated content
 
+[Link to the paper](http://arxiv.org/abs/2310.01297v1)
+
 ## Authors
 - Andrew D. Gordon
 - Carina Negreanu
@@ -3879,8 +4058,9 @@ computations). We propose a preliminary list of principles for co-audit, and
 outline research challenges.
 
 
-# Knowledge Crosswords: Geometric Reasoning over Structured Knowledge with
-  Large Language Models
+# Knowledge Crosswords: Geometric Reasoning over Structured Knowledge with Large Language Models
+
+[Link to the paper](http://arxiv.org/abs/2310.01290v1)
 
 ## Authors
 - Wenxuan Ding
@@ -3920,8 +4100,9 @@ options, certain structural patterns, assumption of existence of correct
 answer, and more.
 
 
-# Mol-Instructions: A Large-Scale Biomolecular Instruction Dataset for
-  Large Language Models
+# Mol-Instructions: A Large-Scale Biomolecular Instruction Dataset for Large Language Models
+
+[Link to the paper](http://arxiv.org/abs/2306.08018v3)
 
 ## Authors
 - Yin Fang
@@ -3953,6 +4134,8 @@ enhance its applicability.
 
 # Two Failures of Self-Consistency in the Multi-Step Reasoning of LLMs
 
+[Link to the paper](http://arxiv.org/abs/2305.14279v3)
+
 ## Authors
 - Angelica Chen
 - Jason Phang
@@ -3979,6 +4162,8 @@ on a variety of tasks.
 
 # SPELL: Semantic Prompt Evolution based on a LLM
 
+[Link to the paper](http://arxiv.org/abs/2310.01260v1)
+
 ## Authors
 - Yujian Betterest Li
 - Kai Wu
@@ -4000,6 +4185,8 @@ potential possibilities and future work.
 
 
 # Listen, Think, and Understand
+
+[Link to the paper](http://arxiv.org/abs/2305.10790v2)
 
 ## Authors
 - Yuan Gong
@@ -4034,8 +4221,9 @@ To the best of our knowledge, LTU is one of the first multimodal large language
 models that focus on general audio (rather than just speech) understanding.
 
 
-# MMICL: Empowering Vision-language Model with Multi-Modal In-Context
-  Learning
+# MMICL: Empowering Vision-language Model with Multi-Modal In-Context Learning
+
+[Link to the paper](http://arxiv.org/abs/2309.07915v2)
 
 ## Authors
 - Haozhe Zhao
@@ -4071,6 +4259,8 @@ hallucination when faced with extensive textual context.
 
 
 # Making LLaMA SEE and Draw with SEED Tokenizer
+
+[Link to the paper](http://arxiv.org/abs/2310.01218v1)
 
 ## Authors
 - Yuying Ge
@@ -4110,6 +4300,8 @@ multimodal generation, acting like your AI assistant.
 
 
 # Label Supervised LLaMA Finetuning
+
+[Link to the paper](http://arxiv.org/abs/2310.01208v1)
 
 ## Authors
 - Zongxi Li
@@ -4152,6 +4344,8 @@ downstream tasks.
 
 # NarrativePlay: Interactive Narrative Understanding
 
+[Link to the paper](http://arxiv.org/abs/2310.01459v1)
+
 ## Authors
 - Runcong Zhao
 - Wenjia Zhang
@@ -4176,8 +4370,9 @@ either explore the world or improve their favorability with the narrative
 characters through conversations.
 
 
-# Large Language Model-Powered Smart Contract Vulnerability Detection: New
-  Perspectives
+# Large Language Model-Powered Smart Contract Vulnerability Detection: New Perspectives
+
+[Link to the paper](http://arxiv.org/abs/2310.01152v1)
 
 ## Authors
 - Sihao Hu
@@ -4213,8 +4408,9 @@ of vulnerabilities. Our code is available at:
 https://github.com/git-disl/GPTLens.
 
 
-# Automated Evaluation of Classroom Instructional Support with LLMs and
-  BoWs: Connecting Global Predictions to Specific Feedback
+# Automated Evaluation of Classroom Instructional Support with LLMs and BoWs: Connecting Global Predictions to Specific Feedback
+
+[Link to the paper](http://arxiv.org/abs/2310.01132v1)
 
 ## Authors
 - Jacob Whitehill
@@ -4243,6 +4439,8 @@ CLASS dimensions.
 
 
 # mBLIP: Efficient Bootstrapping of Multilingual Vision-LLMs
+
+[Link to the paper](http://arxiv.org/abs/2307.06930v2)
 
 ## Authors
 - Gregor Geigle
@@ -4277,8 +4475,9 @@ of magnitude fewer parameters on magnitudes less data. We release our model and
 code at \url{https://github.com/gregor-ge/mBLIP}.
 
 
-# Text Data Augmentation in Low-Resource Settings via Fine-Tuning of Large
-  Language Models
+# Text Data Augmentation in Low-Resource Settings via Fine-Tuning of Large Language Models
+
+[Link to the paper](http://arxiv.org/abs/2310.01119v1)
 
 ## Authors
 - Jean Kaddour
@@ -4299,6 +4498,8 @@ necessitating only a minor fraction of the original training dataset.
 
 
 # GraphText: Graph Reasoning in Text Space
+
+[Link to the paper](http://arxiv.org/abs/2310.01089v1)
 
 ## Authors
 - Jianan Zhao
@@ -4332,8 +4533,9 @@ language. These capabilities underscore the vast, yet-to-be-explored potential
 of LLMs in the domain of graph machine learning.
 
 
-# Towards human-like spoken dialogue generation between AI agents from
-  written dialogue
+# Towards human-like spoken dialogue generation between AI agents from written dialogue
+
+[Link to the paper](http://arxiv.org/abs/2310.01088v1)
 
 ## Authors
 - Kentaro Mitsui
@@ -4360,8 +4562,9 @@ text-to-speech baseline, producing spoken dialogues that are more interactive
 and fluid while retaining clarity and intelligibility.
 
 
-# Back to the Future: Towards Explainable Temporal Reasoning with Large
-  Language Models
+# Back to the Future: Towards Explainable Temporal Reasoning with Large Language Models
+
+[Link to the paper](http://arxiv.org/abs/2310.01074v1)
 
 ## Authors
 - Chenhan Yuan
@@ -4399,6 +4602,8 @@ performance of temporal prediction and explanation.
 
 # Lyra: Orchestrating Dual Correction in Automated Theorem Proving
 
+[Link to the paper](http://arxiv.org/abs/2309.15806v2)
+
 ## Authors
 - Chuanyang Zheng
 - Haiming Wang
@@ -4434,8 +4639,9 @@ Conjecture Correction (subgoal adjustment from interaction with environment)
 could provide a promising avenue for future research in this field.
 
 
-# Reasoning on Graphs: Faithful and Interpretable Large Language Model
-  Reasoning
+# Reasoning on Graphs: Faithful and Interpretable Large Language Model Reasoning
+
+[Link to the paper](http://arxiv.org/abs/2310.01061v1)
 
 ## Authors
 - Linhao Luo
@@ -4465,8 +4671,9 @@ performance on KG reasoning tasks and generates faithful and interpretable
 reasoning results.
 
 
-# L2CEval: Evaluating Language-to-Code Generation Capabilities of Large
-  Language Models
+# L2CEval: Evaluating Language-to-Code Generation Capabilities of Large Language Models
+
+[Link to the paper](http://arxiv.org/abs/2309.17446v2)
 
 ## Authors
 - Ansong Ni
@@ -4506,8 +4713,9 @@ model outputs, hoping to lay the groundwork for further future research in this
 domain.
 
 
-# ARN: A Comprehensive Framework and Dataset for Analogical Reasoning on
-  Narratives
+# ARN: A Comprehensive Framework and Dataset for Analogical Reasoning on Narratives
+
+[Link to the paper](http://arxiv.org/abs/2310.00996v1)
 
 ## Authors
 - Zhivar Sourati
@@ -4543,6 +4751,8 @@ the query narratives.
 
 # Resolving Knowledge Conflicts in Large Language Models
 
+[Link to the paper](http://arxiv.org/abs/2310.00935v1)
+
 ## Authors
 - Yike Wang
 - Shangbin Feng
@@ -4577,8 +4787,9 @@ generating robust responses to knowledge conflict scenarios remains an open
 research question.
 
 
-# On decoder-only architecture for speech-to-text and large language model
-  integration
+# On decoder-only architecture for speech-to-text and large language model integration
+
+[Link to the paper](http://arxiv.org/abs/2307.03917v3)
 
 ## Authors
 - Jian Wu
@@ -4611,8 +4822,9 @@ strong baselines, highlighting the potential advantages of decoder-only models
 for speech-to-text conversion.
 
 
-# LatticeGen: A Cooperative Framework which Hides Generated Text in a
-  Lattice for Privacy-Aware Generation on Cloud
+# LatticeGen: A Cooperative Framework which Hides Generated Text in a Lattice for Privacy-Aware Generation on Cloud
+
+[Link to the paper](http://arxiv.org/abs/2309.17157v2)
 
 ## Authors
 - Mengke Zhang
@@ -4641,8 +4853,9 @@ degree under strong attacks (more than 50% of the semantic remains hidden as
 measured by BERTScore).
 
 
-# All Languages Matter: On the Multilingual Safety of Large Language
-  Models
+# All Languages Matter: On the Multilingual Safety of Large Language Models
+
+[Link to the paper](http://arxiv.org/abs/2310.00905v1)
 
 ## Authors
 - Wenxuan Wang
@@ -4673,8 +4886,9 @@ prompting method can significantly reduce the ratio of unsafe responses from
 https://github.com/Jarviswang94/Multilingual_safety_benchmark.
 
 
-# DataInf: Efficiently Estimating Data Influence in LoRA-tuned LLMs and
-  Diffusion Models
+# DataInf: Efficiently Estimating Data Influence in LoRA-tuned LLMs and Diffusion Models
+
+[Link to the paper](http://arxiv.org/abs/2310.00902v1)
 
 ## Authors
 - Yongchan Kwon
@@ -4703,6 +4917,8 @@ scores. Moreover, it can help to identify which data points are mislabeled.
 
 
 # TADIS: Steering Models for Deep-Thinking about Demonstration Examples
+
+[Link to the paper](http://arxiv.org/abs/2310.00901v1)
 
 ## Authors
 - Tianci Xue
@@ -4739,6 +4955,8 @@ format of TADIS but larger models can be steered for "Deep-Thinking''.
 
 # Enable Language Models to Implicitly Learn Self-Improvement From Data
 
+[Link to the paper](http://arxiv.org/abs/2310.00898v1)
+
 ## Authors
 - Ziqi Wang
 - Le Hou
@@ -4774,8 +4992,9 @@ Experiments on two real-world datasets and one synthetic dataset show that our
 method significantly outperforms prompting-based methods.
 
 
-# RCOT: Detecting and Rectifying Factual Inconsistency in Reasoning by
-  Reversing Chain-of-Thought
+# RCOT: Detecting and Rectifying Factual Inconsistency in Reasoning by Reversing Chain-of-Thought
+
+[Link to the paper](http://arxiv.org/abs/2305.11499v2)
 
 ## Authors
 - Tianci Xue
@@ -4810,6 +5029,8 @@ the fine-grained feedback generation methods.
 
 # (Dynamic) Prompting might be all you need to repair Compressed LLMs
 
+[Link to the paper](http://arxiv.org/abs/2310.00867v1)
+
 ## Authors
 - Duc N. M Hoang
 - Minsik Cho
@@ -4843,8 +5064,9 @@ the value of IDP, demonstrating an average performance improvement of 1.24%
 across nine varied tasks spanning multiple knowledge domains.
 
 
-# Use Your INSTINCT: INSTruction optimization usIng Neural bandits Coupled
-  with Transformers
+# Use Your INSTINCT: INSTruction optimization usIng Neural bandits Coupled with Transformers
+
+[Link to the paper](http://arxiv.org/abs/2310.02905v1)
 
 ## Authors
 - Xiaoqiang Lin
@@ -4884,6 +5106,8 @@ tasks and the task of improving the zero-shot chain-of-thought instruction.
 
 # LLM-grounded Video Diffusion Models
 
+[Link to the paper](http://arxiv.org/abs/2309.17444v2)
+
 ## Authors
 - Long Lian
 - Baifeng Shi
@@ -4911,8 +5135,9 @@ model and several strong baseline methods in faithfully generating videos with
 the desired attributes and motion patterns.
 
 
-# Application of frozen large-scale models to multimodal task-oriented
-  dialogue
+# Application of frozen large-scale models to multimodal task-oriented dialogue
+
+[Link to the paper](http://arxiv.org/abs/2310.00845v1)
 
 ## Authors
 - Tatsuki Kawamoto
@@ -4940,8 +5165,9 @@ dialogues. This is expected to lead to efficient applications to existing
 systems.
 
 
-# Towards LogiGLUE: A Brief Survey and A Benchmark for Analyzing Logical
-  Reasoning Capabilities of Language Models
+# Towards LogiGLUE: A Brief Survey and A Benchmark for Analyzing Logical Reasoning Capabilities of Language Models
+
+[Link to the paper](http://arxiv.org/abs/2310.00836v1)
 
 ## Authors
 - Man Luo
@@ -4980,6 +5206,8 @@ critical field.
 
 # Necessary and Sufficient Watermark for Large Language Models
 
+[Link to the paper](http://arxiv.org/abs/2310.00833v1)
+
 ## Authors
 - Yuki Takezawa
 - Ryoma Sato
@@ -5010,6 +5238,8 @@ can outperform the existing watermarking method by up to 30 BLEU scores.
 
 
 # Parameter-Efficient Tuning Helps Language Model Alignment
+
+[Link to the paper](http://arxiv.org/abs/2310.00819v1)
 
 ## Authors
 - Tianci Xue
@@ -5044,6 +5274,8 @@ datasets compared with prior works.
 
 
 # ReAcTable: Enhancing ReAct for Table Question Answering
+
+[Link to the paper](http://arxiv.org/abs/2310.00815v1)
 
 ## Authors
 - Yunjia Zhang
@@ -5082,8 +5314,9 @@ achieving an accuracy of 68.0% without requiring training a new model or
 fine-tuning.
 
 
-# Testing the Limits of Unified Sequence to Sequence LLM Pretraining on
-  Diverse Table Data Tasks
+# Testing the Limits of Unified Sequence to Sequence LLM Pretraining on Diverse Table Data Tasks
+
+[Link to the paper](http://arxiv.org/abs/2310.00789v1)
 
 ## Authors
 - Soumajyoti Sarkar
@@ -5113,8 +5346,9 @@ to table specific pretraining when scaled from 770M to 11B sequence to sequence
 models while also comparing the instruction finetuned variants of the models.
 
 
-# BooookScore: A systematic exploration of book-length summarization in
-  the era of LLMs
+# BooookScore: A systematic exploration of book-length summarization in the era of LLMs
+
+[Link to the paper](http://arxiv.org/abs/2310.00785v1)
 
 ## Authors
 - Yapei Chang
@@ -5150,8 +5384,9 @@ annotators. We release code and annotations after blind review to spur more
 principled research on book-length summarization.
 
 
-# OpenBA: An Open-sourced 15B Bilingual Asymmetric seq2seq Model
-  Pre-trained from Scratch
+# OpenBA: An Open-sourced 15B Bilingual Asymmetric seq2seq Model Pre-trained from Scratch
+
+[Link to the paper](http://arxiv.org/abs/2309.10706v2)
 
 ## Authors
 - Juntao Li
@@ -5188,8 +5423,9 @@ training stages at https://huggingface.co/openBA. More details of our project
 are available at https://github.com/OpenNLG/openBA.git.
 
 
-# SEED: Simple, Efficient, and Effective Data Management via Large
-  Language Models
+# SEED: Simple, Efficient, and Effective Data Management via Large Language Models
+
+[Link to the paper](http://arxiv.org/abs/2310.00749v1)
 
 ## Authors
 - Zui CHen
@@ -5225,8 +5461,9 @@ few-shot performance while significantly reducing the number of required LLM
 calls.
 
 
-# RoleLLM: Benchmarking, Eliciting, and Enhancing Role-Playing Abilities
-  of Large Language Models
+# RoleLLM: Benchmarking, Eliciting, and Enhancing Role-Playing Abilities of Large Language Models
+
+[Link to the paper](http://arxiv.org/abs/2310.00746v1)
 
 ## Authors
 - Zekun Moore Wang
@@ -5267,6 +5504,8 @@ results with RoleGPT (using GPT-4).
 
 # FELM: Benchmarking Factuality Evaluation of Large Language Models
 
+[Link to the paper](http://arxiv.org/abs/2310.00741v1)
+
 ## Authors
 - Shiqi Chen
 - Yiran Zhao
@@ -5299,8 +5538,9 @@ findings reveal that while retrieval aids factuality evaluation, current LLMs
 are far from satisfactory to faithfully detect factual errors.
 
 
-# GenAI Against Humanity: Nefarious Applications of Generative Artificial
-  Intelligence and Large Language Models
+# GenAI Against Humanity: Nefarious Applications of Generative Artificial Intelligence and Large Language Models
+
+[Link to the paper](http://arxiv.org/abs/2310.00737v1)
 
 ## Authors
 - Emilio Ferrara
@@ -5332,6 +5572,8 @@ some ways we can prepare for them.
 
 # Meta Semantic Template for Evaluation of Large Language Models
 
+[Link to the paper](http://arxiv.org/abs/2310.01448v1)
+
 ## Authors
 - Yachuan Liu
 - Liang Chen
@@ -5358,8 +5600,9 @@ existing datasets as seeds. We hope this initial work can shed light on future
 research of LLMs evaluation.
 
 
-# The Robots are Here: Navigating the Generative AI Revolution in
-  Computing Education
+# The Robots are Here: Navigating the Generative AI Revolution in Computing Education
+
+[Link to the paper](http://arxiv.org/abs/2310.00658v1)
 
 ## Authors
 - James Prather
@@ -5407,6 +5650,8 @@ computing classrooms.
 
 # LEGO-Prover: Neural Theorem Proving with Growing Libraries
 
+[Link to the paper](http://arxiv.org/abs/2310.00656v1)
+
 ## Authors
 - Huajian Xin
 - Haiming Wang
@@ -5449,8 +5694,9 @@ theorems, resulting in an improvement from a success rate of 47.1% to 50.4%. We
 also release our code and all the generated skills.
 
 
-# Adaptive-Solver Framework for Dynamic Strategy Selection in Large
-  Language Model Reasoning
+# Adaptive-Solver Framework for Dynamic Strategy Selection in Large Language Model Reasoning
+
+[Link to the paper](http://arxiv.org/abs/2310.01446v1)
 
 ## Authors
 - Jianpeng Zhou
@@ -5487,8 +5733,9 @@ significantly reduces API costs (up to 50%) while maintaining superior
 performance.
 
 
-# Beyond Task Performance: Evaluating and Reducing the Flaws of Large
-  Multimodal Models with In-Context Learning
+# Beyond Task Performance: Evaluating and Reducing the Flaws of Large Multimodal Models with In-Context Learning
+
+[Link to the paper](http://arxiv.org/abs/2310.00647v1)
 
 ## Authors
 - Mustafa Shukor
@@ -5524,8 +5771,9 @@ tackle some of those flaws. The code is available here:
 https://evalign-icl.github.io/
 
 
-# WASA: WAtermark-based Source Attribution for Large Language
-  Model-Generated Data
+# WASA: WAtermark-based Source Attribution for Large Language Model-Generated Data
+
+[Link to the paper](http://arxiv.org/abs/2310.00646v1)
 
 ## Authors
 - Jingtan Wang
@@ -5560,6 +5808,8 @@ source attribution and data provenance.
 
 # Knowledge Engineering using Large Language Models
 
+[Link to the paper](http://arxiv.org/abs/2310.00637v1)
+
 ## Authors
 - Bradley P. Allen
 - Lise Stork
@@ -5579,6 +5829,8 @@ key open research questions to tackle these directions.
 
 
 # Time Travel in LLMs: Tracing Data Contamination in Large Language Models
+
+[Link to the paper](http://arxiv.org/abs/2308.08493v2)
 
 ## Authors
 - Shahriar Golchin
@@ -5612,6 +5864,8 @@ contaminated with AG News, WNLI, and XSum datasets.
 
 
 # Adapting LLM Agents Through Communication
+
+[Link to the paper](http://arxiv.org/abs/2310.01444v1)
 
 ## Authors
 - Kuan Wang
@@ -5648,8 +5902,9 @@ domains. We will open-source our code to promote further development of the
 community.
 
 
-# Faithful Explanations of Black-box NLP Models Using LLM-generated
-  Counterfactuals
+# Faithful Explanations of Black-box NLP Models Using LLM-generated Counterfactuals
+
+[Link to the paper](http://arxiv.org/abs/2310.00603v1)
 
 ## Authors
 - Yair Gat
@@ -5684,8 +5939,9 @@ explanation and subsequently validate our conclusions. Our work illuminates new
 pathways for efficient and accurate approaches to interpreting NLP systems.
 
 
-# Pink: Unveiling the Power of Referential Comprehension for Multi-modal
-  LLMs
+# Pink: Unveiling the Power of Referential Comprehension for Multi-modal LLMs
+
+[Link to the paper](http://arxiv.org/abs/2310.00582v1)
 
 ## Authors
 - Shiyu Xuan
@@ -5718,8 +5974,9 @@ leaderboard of MMBench. The models, datasets, and codes are publicly available
 at https://github.com/SY-Xuan/Pink
 
 
-# GrowLength: Accelerating LLMs Pretraining by Progressively Growing
-  Training Length
+# GrowLength: Accelerating LLMs Pretraining by Progressively Growing Training Length
+
+[Link to the paper](http://arxiv.org/abs/2310.00576v1)
 
 ## Authors
 - Hongye Jin
@@ -5749,8 +6006,9 @@ LLMs pretraining acceleration does not require any additional engineering
 efforts, making it a practical solution in the realm of LLMs.
 
 
-# Empowering Many, Biasing a Few: Generalist Credit Scoring through Large
-  Language Models
+# Empowering Many, Biasing a Few: Generalist Credit Scoring through Large Language Models
+
+[Link to the paper](http://arxiv.org/abs/2310.00566v1)
 
 ## Authors
 - Duanyu Feng
@@ -5779,8 +6037,9 @@ financial sector. Our datasets, models, and benchmarks are open-sourced for
 other researchers.
 
 
-# Ground Manipulator Primitive Tasks to Executable Actions using Large
-  Language Models
+# Ground Manipulator Primitive Tasks to Executable Actions using Large Language Models
+
+[Link to the paper](http://arxiv.org/abs/2308.06810v2)
 
 ## Authors
 - Yue Cao
@@ -5798,8 +6057,9 @@ In this way, we enable LLMs to generate position/force set-points for hybrid
 control. Evaluations over several state-of-the-art LLMs are provided.
 
 
-# Zero-Shot Recommendations with Pre-Trained Large Language Models for
-  Multimodal Nudging
+# Zero-Shot Recommendations with Pre-Trained Large Language Models for Multimodal Nudging
+
+[Link to the paper](http://arxiv.org/abs/2309.01026v2)
 
 ## Authors
 - Rachel M. Harrison
@@ -5819,6 +6079,8 @@ consist of tabular, textual, and visual data.
 
 
 # Are Human-generated Demonstrations Necessary for In-context Learning?
+
+[Link to the paper](http://arxiv.org/abs/2309.14681v2)
 
 ## Authors
 - Rui Li
@@ -5849,6 +6111,8 @@ Code is available at https://github.com/ruili33/SEC.
 
 
 # SELF: Language-Driven Self-Evolution for Large Language Model
+
+[Link to the paper](http://arxiv.org/abs/2310.00533v1)
 
 ## Authors
 - Jianqiao Lu
@@ -5889,6 +6153,8 @@ of information into an active participant in its own evolution.
 
 # Scaling Up and Distilling Down: Language-Guided Robot Skill Acquisition
 
+[Link to the paper](http://arxiv.org/abs/2307.14535v2)
+
 ## Authors
 - Huy Ha
 - Pete Florence
@@ -5915,8 +6181,9 @@ data, and additional qualitative results are available on
 https://www.cs.columbia.edu/~huy/scalingup/.
 
 
-# From Language Modeling to Instruction Following: Understanding the
-  Behavior Shift in LLMs after Instruction Tuning
+# From Language Modeling to Instruction Following: Understanding the Behavior Shift in LLMs after Instruction Tuning
+
+[Link to the paper](http://arxiv.org/abs/2310.00492v1)
 
 ## Authors
 - Xuansheng Wu
@@ -5951,8 +6218,9 @@ lay the groundwork for future research aimed at interpreting and optimizing
 LLMs for various applications. We will release our code and data soon.
 
 
-# Prompting Language-Informed Distribution for Compositional Zero-Shot
-  Learning
+# Prompting Language-Informed Distribution for Compositional Zero-Shot Learning
+
+[Link to the paper](http://arxiv.org/abs/2305.14428v2)
 
 ## Authors
 - Wentao Bao
@@ -5984,8 +6252,9 @@ generalization. Experimental results on MIT-States, UT-Zappos, and C-GQA
 datasets show the superior performance of the PLID to the prior arts.
 
 
-# Prompting Code Interpreter to Write Better Unit Tests on Quixbugs
-  Functions
+# Prompting Code Interpreter to Write Better Unit Tests on Quixbugs Functions
+
+[Link to the paper](http://arxiv.org/abs/2310.00483v1)
 
 ## Authors
 - Vincent Li
@@ -6013,8 +6282,9 @@ information necessary to generate unit tests, but minor details are not as
 important.
 
 
-# LANCAR: Leveraging Language for Context-Aware Robot Locomotion in
-  Unstructured Environments
+# LANCAR: Leveraging Language for Context-Aware Robot Locomotion in Unstructured Environments
+
+[Link to the paper](http://arxiv.org/abs/2310.00481v1)
 
 ## Authors
 - Chak Lam Shek
@@ -6045,8 +6315,9 @@ experiment video can be found at the following link:
 https://raaslab.org/projects/LLM_Context_Estimation/.
 
 
-# UPAR: A Kantian-Inspired Prompting Framework for Enhancing Large
-  Language Model Capabilities
+# UPAR: A Kantian-Inspired Prompting Framework for Enhancing Large Language Model Capabilities
+
+[Link to the paper](http://arxiv.org/abs/2310.01441v1)
 
 ## Authors
 - Hejia Geng
@@ -6072,8 +6343,9 @@ methods. With GPT-4, our approach elevates the accuracy from COT baseline of
 the causal judgment task.
 
 
-# Evaluating the Instruction-Following Robustness of Large Language Models
-  to Prompt Injection
+# Evaluating the Instruction-Following Robustness of Large Language Models to Prompt Injection
+
+[Link to the paper](http://arxiv.org/abs/2308.10819v2)
 
 ## Authors
 - Zekun Li
@@ -6108,6 +6380,8 @@ can be found at \url{https://github.com/Leezekun/Adv-Instruct-Eval}.
 
 # Dynamic Demonstrations Controller for In-Context Learning
 
+[Link to the paper](http://arxiv.org/abs/2310.00385v1)
+
 ## Authors
 - Fei Zhao
 - Taotian Pang
@@ -6136,8 +6410,9 @@ Moreover, we also extend our method to previous ICL models and achieve
 competitive results.
 
 
-# Measuring Value Understanding in Language Models through
-  Discriminator-Critique Gap
+# Measuring Value Understanding in Language Models through Discriminator-Critique Gap
+
+[Link to the paper](http://arxiv.org/abs/2310.00378v1)
 
 ## Authors
 - Zhaowei Zhang
@@ -6164,8 +6439,9 @@ might craft plausible explanations based on the provided context without truly
 understanding their inherent value, indicating potential risks.
 
 
-# DoReMi: Grounding Language Model by Detecting and Recovering from
-  Plan-Execution Misalignment
+# DoReMi: Grounding Language Model by Detecting and Recovering from Plan-Execution Misalignment
+
+[Link to the paper](http://arxiv.org/abs/2307.00329v3)
 
 ## Authors
 - Yanjiang Guo
@@ -6196,6 +6472,8 @@ times. Videos of DoReMi are available at
 
 # Privacy-Preserving In-Context Learning for Large Language Models
 
+[Link to the paper](http://arxiv.org/abs/2305.01639v2)
+
 ## Authors
 - Tong Wu
 - Ashwinee Panda
@@ -6218,8 +6496,9 @@ and two language generation tasks, and our empirical results show that DP-ICL
 achieves a strong utility-privacy tradeoff.
 
 
-# Red Teaming Game: A Game-Theoretic Framework for Red Teaming Language
-  Models
+# Red Teaming Game: A Game-Theoretic Framework for Red Teaming Language Models
+
+[Link to the paper](http://arxiv.org/abs/2310.00322v1)
 
 ## Authors
 - Chengdong Ma
@@ -6253,8 +6532,9 @@ RTG has established a foundational framework for red teaming tasks and
 constructed a new scalable oversight technique for alignment.
 
 
-# In-Context Learning in Large Language Models: A Neuroscience-inspired
-  Analysis of Representations
+# In-Context Learning in Large Language Models: A Neuroscience-inspired Analysis of Representations
+
+[Link to the paper](http://arxiv.org/abs/2310.00313v1)
 
 ## Authors
 - Safoora Yousefi
@@ -6285,8 +6565,9 @@ without ICL, offering valuable tools and insights for future research and
 practical applications.
 
 
-# STAR: Improving Low-Resource Information Extraction by Structure-to-Text
-  Data Generation with Large Language Models
+# STAR: Improving Low-Resource Information Extraction by Structure-to-Text Data Generation with Large Language Models
+
+[Link to the paper](http://arxiv.org/abs/2305.15090v2)
 
 ## Authors
 - Mingyu Derek Ma
@@ -6322,8 +6603,9 @@ shows STAR-generated data exhibits higher passage quality and better align with
 the task definitions compared with the human-curated data.
 
 
-# CRITIC: Large Language Models Can Self-Correct with Tool-Interactive
-  Critiquing
+# CRITIC: Large Language Models Can Self-Correct with Tool-Interactive Critiquing
+
+[Link to the paper](http://arxiv.org/abs/2305.11738v2)
 
 ## Authors
 - Zhibin Gou
@@ -6353,8 +6635,9 @@ performance of LLMs. Meanwhile, our research highlights the crucial importance
 of external feedback in promoting the ongoing self-improvement of LLMs.
 
 
-# Towards LLM-based Fact Verification on News Claims with a Hierarchical
-  Step-by-Step Prompting Method
+# Towards LLM-based Fact Verification on News Claims with a Hierarchical Step-by-Step Prompting Method
+
+[Link to the paper](http://arxiv.org/abs/2310.00305v1)
 
 ## Authors
 - Xuan Zhang
@@ -6376,6 +6659,8 @@ baselines.
 
 
 # RelBERT: Embedding Relations with Language Models
+
+[Link to the paper](http://arxiv.org/abs/2310.00299v1)
 
 ## Authors
 - Asahi Ushio
@@ -6406,6 +6691,8 @@ open source models.
 
 # Understanding In-Context Learning from Repetitions
 
+[Link to the paper](http://arxiv.org/abs/2310.00297v1)
+
 ## Authors
 - Jianhao Yan
 - Jin Xu
@@ -6430,6 +6717,8 @@ capability.
 
 
 # Prompt-Based Length Controlled Generation with Reinforcement Learning
+
+[Link to the paper](http://arxiv.org/abs/2308.12030v2)
 
 ## Authors
 - Renlong Jie
@@ -6459,8 +6748,9 @@ CNNDM and NYT. Both the standard prompt extractor and the RL-tuned model have
 show strong generalization ability to unseen control prompt templates.
 
 
-# "With Great Power Comes Great Responsibility!": Student and Instructor
-  Perspectives on the influence of LLMs on Undergraduate Engineering Education
+# "With Great Power Comes Great Responsibility!": Student and Instructor Perspectives on the influence of LLMs on Undergraduate Engineering Education
+
+[Link to the paper](http://arxiv.org/abs/2309.10694v2)
 
 ## Authors
 - Ishika Joshi
