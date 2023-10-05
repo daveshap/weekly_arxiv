@@ -10,7 +10,7 @@
 You can modify the link in the script to change the search term, sorting, and limits in the URL
 
 
-## Claud Prompting
+## Claude Prompting
 
 Claude has 100k token window, which makes it useful for surveying the resulting documents
 
